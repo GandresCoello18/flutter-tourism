@@ -1,16 +1,42 @@
-# appsimpleistb
+# App mobil - Calificacion de lugares turisticos UI
+Crear UI para la calificacion de lugares turisticos del Ecuador con 
+* [Flutter](https://flutter.dev/)
+* [Post Twitter](https://twitter.com/AndresC79085858/status/1300958901052022788)
 
-A new Flutter application.
+## Comenzando 🚀
 
-## Getting Started
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-This project is a starting point for a Flutter application.
+Mira **Deployment** para conocer como desplegar el proyecto.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Pre-requisitos 📋
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+* [Adroid Studio](https://developer.android.com/studio)
+
+### Instalación 🔧
+
+Abrir una terminal o linea de comandos apuntando a la raiz de la carpeta y ejecutar los siguientes comando de git.
+
+```
+git clone https://github.com/GandresCoello18/flutter-tourism.git
+```
+## Autores ✒️
+
+* **Andrés Coello** - *Developer full stack* - [Andres Coello](https://www.instagram.com/coellogoyes/)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (MIT)
+
+## Expresiones de Gratitud 🎁
+
+* Pasate por mi perfil para ver algun otro proyecto 📢
+* Desarrollemos alguna app juntos, puedes escribirme en mis redes. 
+* Muchas gracias por pasarte por este proyecto 🤓.
+
+
+---
+⌨️ con ❤️ por [Andres Coello](https://www.instagram.com/coellogoyes/) 😊
